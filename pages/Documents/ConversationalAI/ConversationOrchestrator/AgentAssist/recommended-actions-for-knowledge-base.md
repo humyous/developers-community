@@ -22,6 +22,8 @@ Follow along with this guide to set up the feature.
 
 ### Enable Recommended Actions Widget
 
+Note: The Recommended Actions Widget is only available in the Old Agent Workspace. The new Agent Workspace displays Recommended Actions within the conversation view
+
 You will first need to enable the feature in Conversational Cloud. Please contact LivePerson support or your LivePerson customer representative to enable this feature. 
 
 ### Create Knowledge Base and Article
